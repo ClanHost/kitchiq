@@ -1,0 +1,6 @@
+{
+  "name": "Kitchiq - Smart Household Inventory & Grocery",
+  "description": "Smart household inventory and grocery shopping application for fridge touchscreens, mobile, and desktop with offline-first sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
